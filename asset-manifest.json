@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WhenDoesItRelease/static/css/main.5f361e03.chunk.css",
+    "main.js": "/WhenDoesItRelease/static/js/main.f760eacf.chunk.js",
+    "main.js.map": "/WhenDoesItRelease/static/js/main.f760eacf.chunk.js.map",
+    "runtime-main.js": "/WhenDoesItRelease/static/js/runtime-main.df1cf092.js",
+    "runtime-main.js.map": "/WhenDoesItRelease/static/js/runtime-main.df1cf092.js.map",
+    "static/js/2.1f9af4b2.chunk.js": "/WhenDoesItRelease/static/js/2.1f9af4b2.chunk.js",
+    "static/js/2.1f9af4b2.chunk.js.map": "/WhenDoesItRelease/static/js/2.1f9af4b2.chunk.js.map",
+    "index.html": "/WhenDoesItRelease/index.html",
+    "precache-manifest.5b4da4ce65d8efb48ba72dd904790776.js": "/WhenDoesItRelease/precache-manifest.5b4da4ce65d8efb48ba72dd904790776.js",
+    "service-worker.js": "/WhenDoesItRelease/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/WhenDoesItRelease/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1f9af4b2.chunk.js.LICENSE.txt": "/WhenDoesItRelease/static/js/2.1f9af4b2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/WhenDoesItRelease/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df1cf092.js",
+    "static/js/2.1f9af4b2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f760eacf.chunk.js"
+  ]
+}
